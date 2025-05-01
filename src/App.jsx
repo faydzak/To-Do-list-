@@ -1,0 +1,10 @@
+// Import the necessary libraries
+import React from "react";
+import ToDoList from "./toDoList.jsx";
+
+function App() {
+
+  return (<ToDoList/>)
+}
+
+export default App
